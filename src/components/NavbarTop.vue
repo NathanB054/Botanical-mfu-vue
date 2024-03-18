@@ -48,7 +48,7 @@ nav{
  margin-top: 1%;
 }
 .txt p {
-  margin: 0.5em 0 0 0.9em;
+  margin: 0.5em 0 0 0.1em;
 }
 /* Text navbar */
 

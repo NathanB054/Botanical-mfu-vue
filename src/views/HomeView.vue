@@ -52,6 +52,7 @@ export default {
 <style scoped>
 .home{
   text-align: center;
+  height: 51vh;
 }
 .searchTerm {
     width: 50%;

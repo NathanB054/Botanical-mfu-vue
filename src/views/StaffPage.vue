@@ -11,5 +11,6 @@
 <style scoped>
 .staff{
     text-align: center;
+    height: 51vh;
 }
 </style>
